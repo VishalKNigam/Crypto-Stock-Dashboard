@@ -1,5 +1,6 @@
 import { Flex, Box, Image, Stack, Text, Container } from "@chakra-ui/react";
 import React from "react";
+import PriceChart from "./PriceChart";
 
 export const SingleCoin = ({ coin }) => {
   return (
@@ -141,6 +142,7 @@ export const SingleCoin = ({ coin }) => {
           </span>
         </Text>
       </Stack>
+      <PriceChart coin={coin} />
     </Container>
   );
 };
