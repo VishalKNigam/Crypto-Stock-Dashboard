@@ -33,10 +33,12 @@ const Dashboard = () => {
                     currency={currency} setCurrency={setCurrency}
                     order={order} setOrder={setOrder} />
                 <Coins currency={currency} />
-                <div style={{ maxWidth: "100%", maxHeight: "150px" }}> {/* Set max width and height */}
-                    <Graph style={{ width: "100%", height: "100%" }} /> {/* Style the chart */}
-                </div>
+                
                 <Pagination page={page} setPage={setPage} />
+                
+                <div style={{ maxWidth: "100%", maxHeight: "150px" }}> 
+                    <Graph style={{ width: "100%", height: "100%" }} /> 
+                </div>
             </Stack>
         </div>
     )
