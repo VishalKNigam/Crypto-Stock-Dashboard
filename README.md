@@ -4,7 +4,14 @@
 
 The project is deployed and accessible at [Crypto Stock Dashboard](https://crypto-stock-dashboard.vercel.app/).
 
+## Demo Video
+
+Experience the Crypto Stock Dashboard in action and explore its features.
+
+[Watch Demo Video](https://drive.google.com/file/d/1j17BoN_dT6OLWqP-j-SmIxnbvSKffd0d/view?usp=sharing).
+
 ## Description
+
 
 The Crypto Stock Dashboard is a real-time dashboard designed for monitoring cryptocurrency and stock market data. It provides users with essential information such as current prices, market cap, price changes, and more. The dashboard offers various features to enhance the user experience, including search functionality, sorting options, currency selection, and responsive design for optimal viewing on different devices.
 
